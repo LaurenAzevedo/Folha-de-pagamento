@@ -74,10 +74,11 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 
 Na tela principal, o usuário insere seu nome e salário bruto, determina o seu sexo e quatidade de filhos e calcula.
 
-
 <img src="https://github.com/user-attachments/assets/db371514-672b-43c3-a7ae-0b843ede92b4" width="260" height="500"/>
 
+# 🧰 APK do APP 
 
+<a href="https://github.com/LaurenAzevedo/App-Burger/blob/main/Burger.apk"> Download APK </a> 
  
 # 📄 Licença
 
