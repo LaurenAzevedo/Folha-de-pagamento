@@ -78,7 +78,7 @@ Na tela principal, o usuário insere seu nome e salário bruto, determina o seu 
 
 # 🧰 APK do APP 
 
-<a href="https://https:/github.com/LaurenAzevedo/Folha-de-pagamento/blob/main/FolhaDePagamento.zip"> Download APK </a> 
+<a href="https://github.com/LaurenAzevedo/Folha-de-pagamento/blob/main/FolhaDePagamento.zip"> Download APK </a> 
  
 # 📄 Licença
 
